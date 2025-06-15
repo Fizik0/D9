@@ -17,7 +17,7 @@ title: Руководство пользователя
 
 **Ключевой результат:** Validated understanding клиентских потребностей и рыночных возможностей
 
-**Продолжительность:** 4-8 недель в зависимости от сложности проекта
+**Продолжительность:** """4-8""" недель в зависимости от сложности проекта
 
 ## Области исследования
 
@@ -35,21 +35,21 @@ title: Руководство пользователя
 **Методы исследования:**
 
 1. **Глубинные интервью**
-   - **Описание:** Структурированные беседы с 20-50 представителями целевой аудитории
+   - **Описание:** Структурированные беседы с """20-50""" представителями целевой аудитории
    - **Когда использовать:** Для понимания мотиваций, потребностей и контекста
-   - **Длительность:** 45-90 минут на интервью
+   - **Длительность:** """45-90""" минут на интервью
    - **Результат:** Качественные insights о клиентском опыте
 
 2. **Contextual inquiry**
    - **Описание:** Наблюдение за клиентами в их естественной рабочей среде
    - **Когда использовать:** Для понимания реального workflow и pain points
-   - **Длительность:** 2-4 часа на сессию
+   - **Длительность:** """2-4""" часа на сессию
    - **Результат:** Понимание actual vs stated behavior
 
 3. **Customer journey mapping**
    - **Описание:** Детальная карта пути клиента от осознания проблемы до решения
    - **Когда использовать:** Для выявления всех touchpoints и моментов истины
-   - **Длительность:** 1-2 недели
+   - **Длительность:** """1-2""" недели
    - **Результат:** Визуальная карта клиентского опыта
 
 **Инструменты:**
@@ -63,7 +63,7 @@ title: Руководство пользователя
 
 1. **Customer Research Report**
    - Executive summary ключевых findings
-   - Detailed customer personas (3-5 personas)
+   - Detailed customer personas ("""3-5""" personas)
    - Customer pain points matrix с приоритизацией
    - Jobs-to-be-done framework
    - Customer quotes supporting key insights
@@ -188,7 +188,7 @@ title: Руководство пользователя
    - Regular competitive updates process
 
 **Критерии качества:**
-- Coverage 90%+ relevant competitive landscape
+- Coverage """"90%""""+ relevant competitive landscape
 - Hands-on testing major competitive products
 - Customer validation конкурентных strengths/weaknesses
 - Regular updates и monitoring established
@@ -226,7 +226,7 @@ title: Руководство пользователя
 - Problem intensity: Significant time/cost impact documented
 - Problem urgency: Clear timeline pressure для solution
 - Willingness to pay: Budget availability confirmed
-- Solution gap: Current solutions inadequate для 60%+ users
+- Solution gap: Current solutions inadequate для """"60%""""+ users
 
 **Результаты:**
 
@@ -248,13 +248,13 @@ title: Руководство пользователя
 **Quality gates:**
 - Customer insights validated через multiple sources
 - Market sizing backed by credible third-party data
-- Competitive analysis covers 90%+ of relevant players
+- Competitive analysis covers """"90%""""+ of relevant players
 - Problem validation shows clear customer pain
 - All key stakeholders aligned на findings
 
 **Success metrics:**
 - Customer interview saturation achieved (no new insights)
-- Market size estimates within 20% согласованности между sources
+- Market size estimates within """"20%"""" согласованности между sources
 - Competitive differentiation opportunities identified
 - Clear go/no-go recommendation supported by data
 

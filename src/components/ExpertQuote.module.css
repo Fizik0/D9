@@ -1,0 +1,89 @@
+.quoteContainer {
+  background-color: #f8f9fa;
+  border-left: 5px solid #3578e5;
+  margin: 1.5rem 0;
+  padding: 1rem 1.2rem;
+  border-radius: 0 8px 8px 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  position: relative;
+}
+
+.quoteContext {
+  font-size: 0.8rem;
+  color: #606770;
+  margin-bottom: 0.5rem;
+}
+
+.quote {
+  font-style: italic;
+  margin: 0 0 0.8rem 0;
+  padding: 0;
+  position: relative;
+  color: #444;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.quote::before {
+  content: '"';
+  font-size: 2rem;
+  position: absolute;
+  left: -1rem;
+  top: -0.5rem;
+  color: #3578e5;
+  opacity: 0.3;
+}
+
+.quoteFooter {
+  text-align: right;
+  font-size: 0.9rem;
+  color: #444;
+}
+
+.quoteType {
+  position: absolute;
+  top: -0.6rem;
+  right: 1rem;
+  background: #fff;
+  padding: 0 0.5rem;
+  font-size: 0.7rem;
+  font-weight: 600;
+  border-radius: 4px;
+}
+
+/* Specific types of quotes */
+.problemQuote {
+  border-left-color: #e53935;
+}
+
+.problemQuote .quoteType {
+  color: #e53935;
+}
+
+.problemQuote .quote::before {
+  color: #e53935;
+}
+
+.solutionQuote {
+  border-left-color: #43a047;
+}
+
+.solutionQuote .quoteType {
+  color: #43a047;
+}
+
+.solutionQuote .quote::before {
+  color: #43a047;
+}
+
+.conceptQuote {
+  border-left-color: #039be5;
+}
+
+.conceptQuote .quoteType {
+  color: #039be5;
+}
+
+.conceptQuote .quote::before {
+  color: #039be5;
+} 

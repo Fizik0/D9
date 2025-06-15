@@ -1,0 +1,415 @@
+/* Metric Definition Styles */
+.metricContainer {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+  border-left: 5px solid #3578e5;
+}
+
+.importanceCritical {
+  border-left-color: #e53935;
+}
+
+.importanceHigh {
+  border-left-color: #fb8c00;
+}
+
+.importanceMedium {
+  border-left-color: #3578e5;
+}
+
+.importanceLow {
+  border-left-color: #43a047;
+}
+
+.metricHeader {
+  margin-bottom: 1.25rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  padding-bottom: 1rem;
+}
+
+.metricName {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.metricMeta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  font-size: 0.85rem;
+}
+
+.metricCategory,
+.metricDBlock {
+  background-color: #e0e0e0;
+  padding: 0.25rem 0.6rem;
+  border-radius: 4px;
+  color: #333;
+}
+
+.metricImportance {
+  padding: 0.25rem 0.6rem;
+  border-radius: 4px;
+  color: white;
+  font-weight: 600;
+}
+
+.importanceCritical.metricImportance {
+  background-color: #e53935;
+}
+
+.importanceHigh.metricImportance {
+  background-color: #fb8c00;
+}
+
+.importanceMedium.metricImportance {
+  background-color: #3578e5;
+}
+
+.importanceLow.metricImportance {
+  background-color: #43a047;
+}
+
+.metricContent {
+  display: grid;
+  gap: 1.25rem;
+}
+
+/* Formula Styles */
+.formula,
+.businessImpact,
+.whenToMeasure {
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.formulaTitle,
+.businessImpactTitle,
+.whenToMeasureTitle {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.formulaContent {
+  font-family: monospace;
+  font-size: 1.1rem;
+  background: #f5f7f9;
+  padding: 0.75rem;
+  border-radius: 4px;
+  border-left: 3px solid #3578e5;
+  white-space: pre-wrap;
+}
+
+/* Calculator Styles */
+.calculatorContainer {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+}
+
+.calculatorTitle {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+  color: #333;
+}
+
+.dBlockBadge {
+  font-size: 0.8rem;
+  background-color: #3578e5;
+  color: white;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  margin-left: 0.5rem;
+  vertical-align: middle;
+}
+
+.calculatorContent {
+  display: grid;
+  gap: 1.5rem;
+}
+
+/* Inputs Styles */
+.inputsContainer {
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.inputsTitle {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.inputsFields {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+.inputField {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.inputLabel {
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.input {
+  padding: 0.6rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.input:focus {
+  outline: none;
+  border-color: #3578e5;
+  box-shadow: 0 0 0 2px rgba(53, 120, 229, 0.2);
+}
+
+/* Output Styles */
+.outputContainer {
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.outputTitle {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.resultDisplay {
+  background-color: #f5f7f9;
+  padding: 1rem;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.resultLabel {
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.resultValue {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #3578e5;
+}
+
+.interpretation {
+  margin-top: 1rem;
+}
+
+.interpretationTitle {
+  margin: 0 0 0.5rem 0;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #666;
+}
+
+.goodResult,
+.needsImprovement {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 500;
+}
+
+.goodResultIcon {
+  color: #43a047;
+  font-size: 1.2rem;
+}
+
+.goodResultText {
+  color: #43a047;
+}
+
+.needsImprovementIcon {
+  color: #fb8c00;
+  font-size: 1.2rem;
+}
+
+.needsImprovementText {
+  color: #fb8c00;
+}
+
+/* Actionable Insights Styles */
+.actionableInsights {
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.actionableInsightsTitle {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.nextStepsList {
+  margin: 0;
+  padding: 0 0 0 1.5rem;
+}
+
+.nextStepsList li {
+  margin-bottom: 0.5rem;
+}
+
+.nextStepsList li:last-child {
+  margin-bottom: 0;
+}
+
+/* Benchmark Table Styles */
+.benchmarkContainer {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+}
+
+.benchmarkTitle {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+  color: #333;
+}
+
+.industryBadge {
+  font-size: 0.8rem;
+  background-color: #666;
+  color: white;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  margin-left: 0.5rem;
+  vertical-align: middle;
+}
+
+.benchmarkTableWrapper {
+  overflow-x: auto;
+}
+
+.benchmarkTable {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.benchmarkTable th {
+  background-color: #f2f2f2;
+  padding: 0.8rem;
+  text-align: left;
+  border-bottom: 2px solid #ddd;
+}
+
+.benchmarkTable td {
+  padding: 0.8rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.goodColumn {
+  color: #43a047;
+  font-weight: 500;
+}
+
+.averageColumn {
+  color: #fb8c00;
+  font-weight: 500;
+}
+
+.poorColumn {
+  color: #e53935;
+  font-weight: 500;
+}
+
+.segmentColumn {
+  font-weight: 600;
+}
+
+.yourResultRow {
+  background-color: #f5f7f9;
+}
+
+.yourResultContainer {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.yourResultLabel {
+  font-weight: 600;
+}
+
+.yourResultValue {
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding: 0.3rem 0.6rem;
+  border-radius: 4px;
+}
+
+.yourResultValue.good {
+  color: #43a047;
+  background-color: rgba(67, 160, 71, 0.1);
+}
+
+.yourResultValue.average {
+  color: #fb8c00;
+  background-color: rgba(251, 140, 0, 0.1);
+}
+
+.yourResultValue.poor {
+  color: #e53935;
+  background-color: rgba(229, 57, 53, 0.1);
+}
+
+.yourResultValue.unknown {
+  color: #666;
+  background-color: rgba(102, 102, 102, 0.1);
+}
+
+.yourResultStatus {
+  font-weight: 500;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  color: white;
+}
+
+.yourResultStatus.good {
+  background-color: #43a047;
+}
+
+.yourResultStatus.average {
+  background-color: #fb8c00;
+}
+
+.yourResultStatus.poor {
+  background-color: #e53935;
+}
+
+.yourResultStatus.unknown {
+  background-color: #666;
+} 

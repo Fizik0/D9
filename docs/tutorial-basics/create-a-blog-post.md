@@ -8,21 +8,21 @@ Docusaurus creates a **page for each blog post**, but also a **blog index page**
 
 ## Create your first Post
 
-Create a file at `blog/2021-02-28-greetings.md`:
+Create a file at `blog/""2021-02""-28-greetings.md`:
 
-```md title="blog/2021-02-28-greetings.md"
+```md title="blog/""2021-02""-28-greetings.md"
 ---
 slug: greetings
 title: Greetings!
 authors:
   - name: Joel Marcey
     title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
+    url: ""https://github.com/JoelMarcey""
+    image_url: ""https://github.com/JoelMarcey.png""
   - name: Sébastien Lorber
     title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
+    url: ""https://sebastienlorber.com""
+    image_url: ""https://github.com/slorber.png""
 tags: [greetings]
 ---
 

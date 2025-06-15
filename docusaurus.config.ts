@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: '9D Methodology',
-  tagline: 'Полная методология продуктового менеджмента',
+  tagline: '9 Dimensions of Product Management Excellence',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -15,29 +15,30 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://9d-methodology.com',
+  url: 'https://your-docusaurus-site.example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'your-org', // Usually your GitHub org/user name.
-  projectName: '9d-methodology', // Usually your repo name.
+  organizationName: 'facebook', // Usually your GitHub org/user name.
+  projectName: 'docusaurus', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'ru',
-    locales: ['ru', 'en'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   // Оптимизация для большого объема контента
   plugins: [
+    /* Temporarily commenting out the PWA plugin to fix build errors
     [
       '@docusaurus/plugin-pwa',
       {
@@ -66,6 +67,7 @@ const config: Config = {
         ],
       },
     ],
+    */
   ],
 
   presets: [
@@ -74,12 +76,17 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Настройка для версионирования (если нужно)
-          // showLastUpdateAuthor: true,
-          // showLastUpdateTime: true,
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -92,7 +99,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: '9D Methodology',
+      title: '9D Product Management',
       logo: {
         alt: '9D Logo',
         src: 'img/logo.svg',
@@ -102,7 +109,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Методология',
+          label: 'Methodology',
         },
         {
           type: 'dropdown',
