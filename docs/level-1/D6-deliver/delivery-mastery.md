@@ -12,7 +12,7 @@ sidebar_position: 2
 Джон Аллспо (DevOps pioneer): "The purpose of feature delivery is not just shipping code, but delivering value to users. Every release should be reliable, predictable, and measured by its business impact."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-Delivery Excellence = (Feature Completeness × Release Reliability × Value Delivery × Feature Adoption × Feedback Integration × Delivery Speed) ÷ (Delivery Risk × Feature Debt × Release Friction × User Disruption × Value Leakage × Delivery Delays)
+Delivery Excellence = "Feature Completeness × Release Reliability × Value Delivery × Feature Adoption × Feedback Integration × Delivery Speed" ÷ (Delivery Risk × Feature Debt × Release Friction × User Disruption × Value Leakage × Delivery Delays)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive assessment feature delivery effectiveness и release management quality.
@@ -61,7 +61,7 @@ Feature delivery assessment for SaaS product:
 - Value Leakage: 2/10 (optimized value capture, minimal waste - отлично)
 - Delivery Delays: 3/10 (few delays, predictable timelines - хорошо)
 
-Excellence = (9×8×9×8×9×8) ÷ (2×2×3×2×2×3) = """"373.2"4"8"" ÷ 144 = """"2.5"9"2"" ÷ 10 = "259.2"
+Excellence = ""9"×"8"×"9"×"8"×"9"×8" ÷ ("2"×"2"×"3"×"2"×"2"×3) = """"373.2"4"8"" ÷ 144 = """"2.5"9"2"" ÷ 10 = "259.2"
 Нормализованный: """3.3"2"" (Delivery Excellence)
 
 ### 🎯 РУКОВОДСТВО ПО РАЗВИТИЮ:
@@ -77,7 +77,7 @@ Excellence = (9×8×9×8×9×8) ÷ (2×2×3×2×2×3) = """"373.2"4"8"" ÷ 144 =
 Дон Норман (Nielsen Norman Group): "User experience encompasses all aspects of the end-user's interaction with the company, its services, and its products. True excellence comes not from features, but from meeting exact user needs with elegance and simplicity."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-Experience Excellence = (Usability Quality × Value Perception × Task Efficiency × Emotional Response × Accessibility Level × Customer Satisfaction) ÷ (Interaction Friction × Learning Curve × Error Frequency × Design Debt × Consistency Issues × Cognitive Load)
+Experience Excellence = "Usability Quality × Value Perception × Task Efficiency × Emotional Response × Accessibility Level × Customer Satisfaction" ÷ (Interaction Friction × Learning Curve × Error Frequency × Design Debt × Consistency Issues × Cognitive Load)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive assessment user experience quality и value optimization.
@@ -126,7 +126,7 @@ User experience assessment for mobile application:
 - Consistency Issues: 2/10 (consistent patterns, unified experience - отлично)
 - Cognitive Load: 2/10 (appropriate complexity, focused interfaces - отлично)
 
-Excellence = (9×9×8×9×8×9) ÷ (2×2×2×3×2×2) = """"466.5"6"0"" ÷ 96 = """"4.8"6"0"" ÷ 10 = 486
+Excellence = ""9"×"9"×"8"×"9"×"8"×9" ÷ ("2"×"2"×"2"×"3"×"2"×2) = """"466.5"6"0"" ÷ 96 = """"4.8"6"0"" ÷ 10 = 486
 Нормализованный: """3.5"6"" (Experience Excellence)
 
 ### 🎯 РУКОВОДСТВО ПО РАЗВИТИЮ:
@@ -142,7 +142,7 @@ Excellence = (9×9×8×9×8×9) ÷ (2×2×2×3×2×2) = """"466.5"6"0"" ÷ 96 = 
 Стив Сузман (Performance expert): "Performance isn't just a technical concern, it's a core user experience factor. Every millisecond matters in shaping user perception and business outcomes."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-Performance Excellence = (Response Speed × Resource Efficiency × Scalability × Stability × Optimization Level × User Perception) ÷ (Performance Bottlenecks × Resource Waste × Degradation Frequency × Technical Debt × Optimization Complexity × User Disruption)
+Performance Excellence = "Response Speed × Resource Efficiency × Scalability × Stability × Optimization Level × User Perception" ÷ (Performance Bottlenecks × Resource Waste × Degradation Frequency × Technical Debt × Optimization Complexity × User Disruption)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive assessment performance quality и technical optimization.
@@ -191,7 +191,7 @@ Web application performance assessment:
 - Optimization Complexity: 2/10 (maintainable optimizations, well-documented - отлично)
 - User Disruption: 2/10 (minimal impact on users, seamless experience - отлично)
 
-Excellence = (9×9×8×9×9×8) ÷ (2×2×2×3×2×2) = """"466.5"6"0"" ÷ 96 = """"4.8"6"0"" ÷ 10 = 486
+Excellence = ""9"×"9"×"8"×"9"×"9"×8" ÷ ("2"×"2"×"2"×"3"×"2"×2) = """"466.5"6"0"" ÷ 96 = """"4.8"6"0"" ÷ 10 = 486
 Нормализованный: """3.5"6"" (Performance Excellence)
 
 ### 🎯 РУКОВОДСТВО ПО РАЗВИТИЮ:

@@ -12,7 +12,7 @@ sidebar_position: 2
 Келси Хайтауэр (Google): "Infrastructure should be treated as code. Reliability should be programmatic and declarative, not imperative and reactive."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-Infrastructure Excellence = (Reliability × Scalability × Security × Automation × Resource Optimization × Observability) ÷ (Maintenance Overhead × Complexity × Cost × Deployment Friction × Technical Debt × Skill Requirements)
+Infrastructure Excellence = "Reliability × Scalability × Security × Automation × Resource Optimization × Observability" ÷ (Maintenance Overhead × Complexity × Cost × Deployment Friction × Technical Debt × Skill Requirements)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive assessment infrastructure quality и cloud platform excellence.
@@ -61,7 +61,7 @@ Cloud infrastructure assessment for enterprise SaaS:
 - Technical Debt: 2/10 (modern infrastructure, regular updates - отлично)
 - Skill Requirements: 3/10 (common skills, good documentation - хорошо)
 
-Excellence = (9×9×8×9×8×8) ÷ (3×3×3×2×2×3) = """"373.2"4"8"" ÷ 324 = """"1.1"5"2"" ÷ 10 = ""11.5"2"
+Excellence = ""9"×"9"×"8"×"9"×"8"×8" ÷ ("3"×"3"×"3"×"2"×"2"×3) = """"373.2"4"8"" ÷ 324 = """"1.1"5"2"" ÷ 10 = ""11.5"2"
 Нормализованный: """3.1"5"" (Infrastructure Excellence)
 
 ### 🎯 РУКОВОДСТВО ПО РАЗВИТИЮ:
@@ -77,7 +77,7 @@ Excellence = (9×9×8×9×8×8) ÷ (3×3×3×2×2×3) = """"373.2"4"8"" ÷ 324 =
 Джез Хамбл (Continuous Delivery): "The key to continuous delivery is creating a repeatable, reliable process for releasing software with high quality and low risk."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-Continuous Delivery Excellence = (Automation Level × Pipeline Efficiency × Release Frequency × Deployment Reliability × Quality Assurance × Feedback Speed) ÷ (Deployment Complexity × Manual Intervention × Release Risk × Recovery Time × Coordination Overhead × Technical Barriers)
+Continuous Delivery Excellence = "Automation Level × Pipeline Efficiency × Release Frequency × Deployment Reliability × Quality Assurance × Feedback Speed" ÷ (Deployment Complexity × Manual Intervention × Release Risk × Recovery Time × Coordination Overhead × Technical Barriers)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive assessment continuous delivery и release management efficiency.
@@ -126,7 +126,7 @@ Continuous delivery assessment for cloud-native platform:
 - Coordination Overhead: 2/10 (minimal coordination needs - отлично)
 - Technical Barriers: 3/10 (few barriers, abstracted complexity - хорошо)
 
-Excellence = (9×8×9×9×8×9) ÷ (2×1×2×2×2×3) = """"466.5"6"0"" ÷ 48 = """"9.7"2"0"" ÷ 10 = 972
+Excellence = ""9"×"8"×"9"×"9"×"8"×9" ÷ ("2"×"1"×"2"×"2"×"2"×3) = """"466.5"6"0"" ÷ 48 = """"9.7"2"0"" ÷ 10 = 972
 Нормализованный: """3.5"6"" (Delivery Excellence)
 
 ### 🎯 РУКОВОДСТВО ПО РАЗВИТИЮ:
@@ -142,7 +142,7 @@ Excellence = (9×8×9×9×8×9) ÷ (2×1×2×2×2×3) = """"466.5"6"0"" ÷ 48 = 
 Бетси Бейер (Google SRE): "Hope is not a strategy. Engineering teams must design systems with reliability as a feature, not an afterthought."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-Reliability Excellence = (System Availability × Fault Tolerance × Recovery Capability × Scalability × Monitoring Quality × Incident Management) ÷ (System Complexity × Failure Points × Recovery Time × Operational Overhead × Unplanned Work × Knowledge Gaps)
+Reliability Excellence = "System Availability × Fault Tolerance × Recovery Capability × Scalability × Monitoring Quality × Incident Management" ÷ (System Complexity × Failure Points × Recovery Time × Operational Overhead × Unplanned Work × Knowledge Gaps)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive assessment reliability engineering practices и operational excellence.
@@ -191,7 +191,7 @@ Reliability engineering assessment for critical service:
 - Unplanned Work: 2/10 (minimal firefighting, proactive approach - отлично)
 - Knowledge Gaps: 2/10 (shared knowledge, documentation - отлично)
 
-Excellence = (9×9×8×9×9×8) ÷ (3×2×2×3×2×2) = """"466.5"6"0"" ÷ 144 = """"3.2"4"0"" ÷ 10 = 324
+Excellence = ""9"×"9"×"8"×"9"×"9"×8" ÷ ("3"×"2"×"2"×"3"×"2"×2) = """"466.5"6"0"" ÷ 144 = """"3.2"4"0"" ÷ 10 = 324
 Нормализованный: """3.4"5"" (Reliability Excellence)
 
 ### 🎯 РУКОВОДСТВО ПО РАЗВИТИЮ:

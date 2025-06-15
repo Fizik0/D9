@@ -221,7 +221,7 @@ Detection: 8/10 (automated monitoring, 24-hour alerts)
 Analysis: 7/10 (systematic threat assessment framework)
 Response: 6/10 (product team agility)
 Impact: 8/10 (strong customer communication)
-Response Capability = 8×7×6×8 = """"2.6"8"8"" (normalized: "7.4"/10)
+Response Capability = "8"×"7"×"6"×8 = """"2.6"8"8"" (normalized: "7.4"/10)
 
 #### � РУКОВОДСТВО ПО РАЗВИТИЮ:
 •	🟢 Vulnerable position (менее "5.0"): Focus на building primary moat
@@ -435,7 +435,7 @@ Optimization Score = (""""58%""""-""""30%"""")÷""""30%"""" × $99 = ""0.9"3" ×
 Майкл Портер: "Иногда лучше быть быстрым последователем, чем первопроходцем."
 
 #### � ФОРМУЛЫ + ЛОГИКА:
-**Competitive Pricing Position Index = (Our Price-Value Ratio ÷ Competitor Average Price-Value Ratio) × Market Share Weight**
+**Competitive Pricing Position Index = "Our Price-Value Ratio ÷ Competitor Average Price-Value Ratio" × Market Share Weight**
  
 **🧠 ЛОГИКА РАСЧЕТА:**
 Sophisticated competitive positioning measurement accounting для value differences.
@@ -458,7 +458,7 @@ Project management software competitive analysis:
 Our offering: $50/user/month, Value score: "8.5"/10
 Competitor A: $45/user, Value: "7.8"/10 (""""40%"""" market share)
 Competitor B: $35/user, Value: "6.2"/10 (""""25%"""" market share)
-Our ratio: $50÷"8.5" = ""5.8"8"
+Our ratio: $"50"÷"8.5" = ""5.8"8"
 Weighted comp average: (""5.7"7"×"0.4" + ""5.6"5"×""0.2"5") = ""5.7"2"
 Position Index = ""5.8"8"÷""5.7"2" × "1.0" = ""1.0"3" (competitive parity)
 
@@ -535,7 +535,7 @@ Defensibility: 7/10 (switching costs, network effects)
 Complexity: 4/10 (moderate operational complexity)
 Capital: 6/10 (moderate funding requirements)
 Risk: 5/10 (proven execution model)
-Efficiency = (8×9×7)÷(4×6×5) = 504÷120 = "4.2" (viable model)
+Efficiency = ("8"×"9"×7)÷("4"×"6"×5) = "504"÷120 = "4.2" (viable model)
 
 **Revenue Diversification Strength = (1 - Herfindahl Index) × Revenue Stream Synergy × Growth Sustainability**
  
@@ -607,7 +607,7 @@ Indirect Effects: 8/10 (strong two-sided market dynamics)
 Data Effects: 7/10 (transaction data improves matching)
 Social Effects: 5/10 (moderate community benefits)
 Switching Multiplier: "1.5" (moderate switching costs)
-Network Strength = (6×8×7×5)^""0.2"5" × "1.5" = "6.5" × "1.5" = ""9.7"5" (exceptional!)
+Network Strength = ("6"×"8"×"7"×5)^""0.2"5" × "1.5" = "6.5" × "1.5" = ""9.7"5" (exceptional!)
 
 **Platform Ecosystem Value Capture = Total Ecosystem Revenue × Our Capture Rate × Participant Retention Rate**
  
@@ -990,7 +990,7 @@ Feasibility: 6/10 (moderate technical complexity)
 Market Readiness: 7/10 (customer interest growing)
 Technology Risk: 6/10 (proven but evolving)
 Resource Requirements: 8/10 (significant investment)
-Priority = (9×6×7)÷(6×8) = 378÷48 = "7.9" (high priority adoption)
+Priority = ("9"×"6"×7)÷("6"×8) = "378"÷48 = "7.9" (high priority adoption)
 
 **Technology Maturity Assessment = (Performance Improvement Rate × Ecosystem Development × Standard Establishment) ÷ 3**
  
@@ -1077,7 +1077,7 @@ Ideas Generated: 200 annually
 Ideas Commercialized: 10 annually
 Development Time: 12 months average
 Industry Average: 18 months
-Velocity = (200÷10) × (12÷18) = 20 × ""0.6"7" = "13.4"
+Velocity = ("200"÷10) × ("12"÷18) = 20 × ""0.6"7" = "13.4"
 Result: Pipeline efficiency needs improvement (high ratio)
 Focus: Better idea screening, faster development cycles
 
@@ -1095,7 +1095,7 @@ Focus: Better idea screening, faster development cycles
 Сатья Наделла: "Каждая компания сейчас - это софтверная компания. Вы должны иметь цифровую стратегию."
 
 #### � ФОРМУЛЫ + ЛОГИКА:
-**Digital Maturity Index = (Technology Infrastructure × Data Capabilities × Digital Processes × Cultural Transformation × Customer Digital Experience) ÷ 5**
+**Digital Maturity Index = "Technology Infrastructure × Data Capabilities × Digital Processes × Cultural Transformation × Customer Digital Experience" ÷ 5**
  
 **🧠 ЛОГИКА РАСЧЕТА:**
 Comprehensive assessment digital transformation progress.
@@ -1167,7 +1167,7 @@ Result: Moderate ROI, focus на increasing adoption
 Эндрю Нг: "AI - это новая электричество. Данные - это топливо для AI."
 
 #### � ФОРМУЛЫ + ЛОГИКА:
-**Data Maturity Index = (Collection Quality × Processing Speed × Analytics Depth × Decision Integration × Predictive Capability) ÷ 5**
+**Data Maturity Index = "Collection Quality × Processing Speed × Analytics Depth × Decision Integration × Predictive Capability" ÷ 5**
  
 **🧠 ЛОГИКА РАСЧЕТА:**
 Comprehensive assessment organizational data sophistication.

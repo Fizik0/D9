@@ -125,6 +125,21 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
+      label: 'Level 2: Methodology Validation',
+      items: [
+        'level-2/index',
+        'level-2/methodological-foundation',
+        'level-2/case1-saas-crypto',
+        'level-2/case2-ecommerce-ai',
+        'level-2/case3-fitness-app',
+        'level-2/validation-scoring',
+        'level-2/practical-tools',
+        'level-2/case-studies',
+        'level-2/summary'
+      ]
+    },
+    {
+      type: 'category',
       label: 'Внедрение',
       items: [
         'implementation/index',

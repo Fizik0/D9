@@ -12,7 +12,7 @@ sidebar_position: 6
 Джоэл Спольски (Joel on Software): "Developer productivity - это function не просто individual skill, а quality tools и environment. Excellent development ecosystem eliminates friction, automates repetitive tasks, и enables developers focus на creative problem solving rather than fighting с tools."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-Development Ecosystem Excellence = (Tool Integration × Environment Optimization × Productivity Enhancement × Automation Level × User Experience × Maintenance Efficiency) ÷ (Ecosystem Complexity × Tool Conflicts × Learning Curve × Resource Requirements × Integration Overhead × Upgrade Challenges)
+Development Ecosystem Excellence = "Tool Integration × Environment Optimization × Productivity Enhancement × Automation Level × User Experience × Maintenance Efficiency" ÷ (Ecosystem Complexity × Tool Conflicts × Learning Curve × Resource Requirements × Integration Overhead × Upgrade Challenges)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive assessment development ecosystem effectiveness и developer experience.
@@ -61,7 +61,7 @@ Cloud-native development ecosystem assessment:
 - Integration Overhead: 3/10 (automated integration management - хорошо)
 - Upgrade Challenges: 3/10 (automated upgrades, compatibility testing - хорошо)
 
-Excellence = (9×8×9×8×8×8)÷(4×3×4×4×3×3) = """"331.7"7"6""÷""""2.5"9"2"" = 128/10 = ""12.8""
+Excellence = ""9"×"8"×"9"×"8"×"8"×8"÷("4"×"3"×"4"×"4"×"3"×3) = """"331.7"7"6""÷""""2.5"9"2"" = 128/10 = ""12.8""
 Нормализованный: ""3.2"" (Ecosystem Excellence!)
 
 ### 🎯 РУКОВОДСТВО ПО РАЗВИТИЮ:
@@ -77,7 +77,7 @@ Excellence = (9×8×9×8×8×8)÷(4×3×4×4×3×3) = """"331.7"7"6""÷""""2.5"9
 Анди Хант (The Pragmatic Programmer): "Documentation - это не afterthought, а integral part development process. Excellence в knowledge management означает creating living documentation, которая evolves с codebase и enables both current teams и future maintainers understand и extend system effectively."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-Knowledge Management Excellence = (Documentation Quality × Knowledge Accessibility × Information Currency × Learning Support × Knowledge Sharing × Maintenance Sustainability) ÷ (Documentation Overhead × Information Fragmentation × Update Burden × Search Difficulty × Quality Inconsistency × Maintenance Cost)
+Knowledge Management Excellence = "Documentation Quality × Knowledge Accessibility × Information Currency × Learning Support × Knowledge Sharing × Maintenance Sustainability" ÷ (Documentation Overhead × Information Fragmentation × Update Burden × Search Difficulty × Quality Inconsistency × Maintenance Cost)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive assessment knowledge management effectiveness и documentation quality.
@@ -126,7 +126,7 @@ Open source project knowledge management assessment:
 - Quality Inconsistency: 4/10 (review processes maintain quality - приемлемо)
 - Maintenance Cost: 3/10 (community-supported, low organizational cost - хорошо)
 
-Excellence = (9×8×8×8×9×8)÷(4×3×3×3×4×3) = """"331.7"7"6""÷""""2.5"9"2"" = 128/10 = ""12.8""
+Excellence = ""9"×"8"×"8"×"8"×"9"×8"÷("4"×"3"×"3"×"3"×"4"×3) = """"331.7"7"6""÷""""2.5"9"2"" = 128/10 = ""12.8""
 Нормализованный: """2.8"4"" (Knowledge Excellence!)
 
 ### 🎯 РУКОВОДСТВО ПО РАЗВИТИЮ:
@@ -142,7 +142,7 @@ Excellence = (9×8×8×8×9×8)÷(4×3×3×3×4×3) = """"331.7"7"6""÷""""2.5"9
 Эрик Реймонд (The Cathedral and the Bazaar): "Community building в software development - это art creating ecosystem где diverse contributors могут collaborate effectively. Successful communities create more value than sum их individual parts через knowledge sharing, peer review, и collective innovation."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-Community Building Excellence = (Community Engagement × Collaboration Effectiveness × Contribution Quality × Knowledge Exchange × Network Growth × Sustainable Participation) ÷ (Community Management Overhead × Coordination Complexity × Quality Control Burden × Cultural Barriers × Resource Investment × Governance Challenges)
+Community Building Excellence = "Community Engagement × Collaboration Effectiveness × Contribution Quality × Knowledge Exchange × Network Growth × Sustainable Participation" ÷ (Community Management Overhead × Coordination Complexity × Quality Control Burden × Cultural Barriers × Resource Investment × Governance Challenges)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive assessment community building effectiveness и external collaboration success.
@@ -191,7 +191,7 @@ Developer tools company community assessment:
 - Resource Investment: 4/10 (reasonable investment, measurable ROI - приемлемо)
 - Governance Challenges: 3/10 (clear governance, community input - хорошо)
 
-Excellence = (9×8×8×9×8×8)÷(4×4×3×3×4×3) = """"331.7"7"6""÷""""2.5"9"2"" = 128/10 = ""12.8""
+Excellence = ""9"×"8"×"8"×"9"×"8"×8"÷("4"×"4"×"3"×"3"×"4"×3) = """"331.7"7"6""÷""""2.5"9"2"" = 128/10 = ""12.8""
 Нормализованный: ""3.2"" (Community Excellence!)
 
 ### 🎯 РУКОВОДСТВО ПО РАЗВИТИЮ:

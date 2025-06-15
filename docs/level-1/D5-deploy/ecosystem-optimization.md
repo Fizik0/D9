@@ -12,7 +12,7 @@ sidebar_position: 3
 Николь Форсгрен (DORA): "High-performing organizations invest in tools that make deployment easier and more reliable, creating an integrated ecosystem that supports rapid, safe delivery."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-Deployment Ecosystem Excellence = (Tool Integration × Workflow Efficiency × Automation Quality × Platform Usability × Knowledge Management × Cross-team Collaboration) ÷ (Tool Complexity × Workflow Friction × Manual Steps × Learning Curve × Documentation Gaps × Coordination Overhead)
+Deployment Ecosystem Excellence = "Tool Integration × Workflow Efficiency × Automation Quality × Platform Usability × Knowledge Management × Cross-team Collaboration" ÷ (Tool Complexity × Workflow Friction × Manual Steps × Learning Curve × Documentation Gaps × Coordination Overhead)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive assessment deployment ecosystem effectiveness и tool integration quality.
@@ -61,7 +61,7 @@ DevOps platform ecosystem assessment:
 - Documentation Gaps: 2/10 (comprehensive coverage, up-to-date information - отлично)
 - Coordination Overhead: 2/10 (minimal coordination needs, clear responsibilities - отлично)
 
-Excellence = (9×8×9×8×8×9) ÷ (3×2×2×3×2×2) = """"373.2"4"8"" ÷ 144 = """"2.5"9"2"" ÷ 10 = "259.2"
+Excellence = ""9"×"8"×"9"×"8"×"8"×9" ÷ ("3"×"2"×"2"×"3"×"2"×2) = """"373.2"4"8"" ÷ 144 = """"2.5"9"2"" ÷ 10 = "259.2"
 Нормализованный: """3.3"2"" (Ecosystem Excellence)
 
 ### 🎯 РУКОВОДСТВО ПО РАЗВИТИЮ:
@@ -77,7 +77,7 @@ Excellence = (9×8×9×8×8×9) ÷ (3×2×2×3×2×2) = """"373.2"4"8"" ÷ 144 =
 Эндрю Клей Шейфер (DevOps pioneer): "The ability to consistently reproduce environments across the development lifecycle is a fundamental capability for delivery excellence. Treating environments as immutable, version-controlled assets rather than pets creates predictability and eliminates drift."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-Environment Management Excellence = (Environment Consistency × Deployment Orchestration × Environment Isolation × Provisioning Speed × Configuration Management × Environment Scalability) ÷ (Environment Drift × Configuration Complexity × Provisioning Overhead × Environment Conflicts × Maintenance Burden × Resource Waste)
+Environment Management Excellence = "Environment Consistency × Deployment Orchestration × Environment Isolation × Provisioning Speed × Configuration Management × Environment Scalability" ÷ (Environment Drift × Configuration Complexity × Provisioning Overhead × Environment Conflicts × Maintenance Burden × Resource Waste)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive assessment multi-environment management и deployment orchestration quality.
@@ -126,7 +126,7 @@ Kubernetes-based environment management assessment:
 - Maintenance Burden: 3/10 (automated updates, self-healing capabilities - хорошо)
 - Resource Waste: 2/10 (efficient resource usage, cleanup automation - отлично)
 
-Excellence = (9×9×8×8×9×9) ÷ (2×3×2×2×3×2) = """"466.5"6"0"" ÷ 144 = """"3.2"4"0"" ÷ 10 = 324
+Excellence = ""9"×"9"×"8"×"8"×"9"×9" ÷ ("2"×"3"×"2"×"2"×"3"×2) = """"466.5"6"0"" ÷ 144 = """"3.2"4"0"" ÷ 10 = 324
 Нормализованный: """3.4"5"" (Management Excellence)
 
 ### 🎯 РУКОВОДСТВО ПО РАЗВИТИЮ:
@@ -142,7 +142,7 @@ Excellence = (9×9×8×8×9×9) ÷ (2×3×2×2×3×2) = """"466.5"6"0"" ÷ 144 =
 Вернер Фогельс (Amazon CTO): "Everything fails all the time. Designing deployments for distributed systems requires embracing failure as normal and building systems that continue to work despite inevitable component failures."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-Global Deployment Excellence = (Geographical Distribution × Edge Optimization × Latency Management × Regional Compliance × Disaster Recovery × Traffic Routing) ÷ (Coordination Complexity × Inconsistency Risk × Replication Overhead × Regulatory Challenge × Failure Domain Impact × Network Limitations)
+Global Deployment Excellence = "Geographical Distribution × Edge Optimization × Latency Management × Regional Compliance × Disaster Recovery × Traffic Routing" ÷ (Coordination Complexity × Inconsistency Risk × Replication Overhead × Regulatory Challenge × Failure Domain Impact × Network Limitations)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive assessment global deployment capability и distributed systems excellence.
@@ -191,7 +191,7 @@ Global SaaS platform deployment assessment:
 - Failure Domain Impact: 2/10 (isolated failure domains, limited blast radius - отлично)
 - Network Limitations: 2/10 (redundant connectivity, optimized routing - отлично)
 
-Excellence = (9×9×8×9×9×8) ÷ (3×2×3×3×2×2) = """"466.5"6"0"" ÷ 216 = """"2.1"6"0"" ÷ 10 = 216
+Excellence = ""9"×"9"×"8"×"9"×"9"×8" ÷ ("3"×"2"×"3"×"3"×"2"×2) = """"466.5"6"0"" ÷ 216 = """"2.1"6"0"" ÷ 10 = 216
 Нормализованный: """3.2"8"" (Global Excellence)
 
 ### 🎯 РУКОВОДСТВО ПО РАЗВИТИЮ:

@@ -149,7 +149,7 @@ Munger открыл секрет долгосрочного преимущест
 
 **Практический пример:**
 Команда сделала 10 ошибок, признала 8, предприняла 7 learning actions
-Intellectual Honesty Index = (8 ÷ 10) × 7 = "0.8" × 7 = "5.6" (при max 10)
+Intellectual Honesty Index = "8 ÷ 10" × 7 = "0.8" × 7 = "5.6" (при max 10)
 
 **Developmental Guidance:**
 - ""0-2"" балла: Изучите D9 DIRECT - Learning Organization Culture

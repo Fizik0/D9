@@ -12,7 +12,7 @@ sidebar_position: 3
 Роберт Мартин (Clean Code): "Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-Code Quality Index = (Readability × Maintainability × Testability × Clarity × Consistency × Efficiency) ÷ (Complexity × Duplication × Technical Debt × Fragility × Rigidity × Defect Density)
+Code Quality Index = "Readability × Maintainability × Testability × Clarity × Consistency × Efficiency" ÷ (Complexity × Duplication × Technical Debt × Fragility × Rigidity × Defect Density)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive assessment code quality и sustainable engineering practices.
@@ -61,7 +61,7 @@ Code quality assessment для enterprise application:
 - Rigidity: 3/10 (flexible architecture, adaptable components - хорошо)
 - Defect Density: 2/10 (few defects, quick resolution - отлично)
 
-Quality Index = (8×9×8×8×9×8) ÷ (3×2×3×2×3×2) = """"331.7"7"6"" ÷ 216 = """"1.5"3"6"" ÷ 10 = ""15.3"6"
+Quality Index = ""8"×"9"×"8"×"8"×"9"×8" ÷ ("3"×"2"×"3"×"2"×"3"×2) = """"331.7"7"6"" ÷ 216 = """"1.5"3"6"" ÷ 10 = ""15.3"6"
 Нормализованный: """2.8"7"" (High Quality)
 
 ### 🎯 РУКОВОДСТВО ПО РАЗВИТИЮ:
@@ -77,7 +77,7 @@ Quality Index = (8×9×8×8×9×8) ÷ (3×2×3×2×3×2) = """"331.7"7"6"" ÷ 21
 Грейди Буч (Object-Oriented Analysis and Design): "The complexity of software is an essential property, not an accidental one. Hence, we need architecture to organize this inherent complexity and give form and structure to software systems."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-Architecture Quality Index = (Robustness × Scalability × Flexibility × Maintainability × Security × Performance) ÷ (Complexity × Integration Overhead × Technical Constraint × Learning Curve × Implementation Difficulty × Operational Cost)
+Architecture Quality Index = "Robustness × Scalability × Flexibility × Maintainability × Security × Performance" ÷ (Complexity × Integration Overhead × Technical Constraint × Learning Curve × Implementation Difficulty × Operational Cost)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive assessment technical architecture и system design effectiveness.
@@ -126,7 +126,7 @@ Microservice architecture assessment:
 - Implementation Difficulty: 3/10 (containerization, orchestration tools simplify - хорошо)
 - Operational Cost: 3/10 (cloud-native efficiencies, automation reduces cost - хорошо)
 
-Quality Index = (9×9×8×8×9×8) ÷ (4×3×2×4×3×3) = """"373.2"4"8"" ÷ 864 = 432 ÷ 10 = "43.2"
+Quality Index = ""9"×"9"×"8"×"8"×"9"×8" ÷ ("4"×"3"×"2"×"4"×"3"×3) = """"373.2"4"8"" ÷ 864 = 432 ÷ 10 = "43.2"
 Нормализованный: """3.4"3"" (Exceptional Architecture)
 
 ### 🎯 РУКОВОДСТВО ПО РАЗВИТИЮ:
@@ -142,7 +142,7 @@ Quality Index = (9×9×8×8×9×8) ÷ (4×3×2×4×3×3) = """"373.2"4"8"" ÷ 86
 Кент Бек (Test-Driven Development): "Testing is not about finding bugs, it's about enabling change. Tests are the canary in the coal mine, telling you when your system is getting sick before it becomes terminally ill."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-Testing Excellence = (Test Coverage × Automation Level × Test Types × Testing Speed × Defect Detection × Confidence Level) ÷ (Test Maintenance Overhead × False Positives × Test Complexity × Resource Requirements × Integration Challenges × Testing Gaps)
+Testing Excellence = "Test Coverage × Automation Level × Test Types × Testing Speed × Defect Detection × Confidence Level" ÷ (Test Maintenance Overhead × False Positives × Test Complexity × Resource Requirements × Integration Challenges × Testing Gaps)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive assessment testing effectiveness и quality assurance practices.
@@ -191,7 +191,7 @@ Testing strategy assessment для enterprise application:
 - Integration Challenges: 3/10 (seamless integration, consistent approach - хорошо)
 - Testing Gaps: 2/10 (comprehensive coverage, risk-based approach - отлично)
 
-Excellence = (9×9×8×8×9×8) ÷ (3×2×3×3×3×2) = """"373.2"4"8"" ÷ 324 = """"1.1"5"2"" ÷ 10 = ""11.5"2"
+Excellence = ""9"×"9"×"8"×"8"×"9"×8" ÷ ("3"×"2"×"3"×"3"×"3"×2) = """"373.2"4"8"" ÷ 324 = """"1.1"5"2"" ÷ 10 = ""11.5"2"
 Нормализованный: """3.1"5"" (Testing Excellence)
 
 ### 🎯 РУКОВОДСТВО ПО РАЗВИТИЮ:

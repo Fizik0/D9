@@ -146,10 +146,10 @@ Enterprise микросервисная платформа e-commerce:
 - Operational: 4/10 (sophisticated monitoring required - приемлемо)
 - Learning: 5/10 ("""2-3""" months onboarding - нормально)
 
-Excellence = (9×8×9×9×8×9)÷(3×5×4×6×4×5) = """"419.9"0"4""÷""""7.2"0"0"" = """58.3"2""/10 = """5.8"3""
+Excellence = ""9"×"8"×"9"×"9"×"8"×9"÷("3"×"5"×"4"×"6"×"4"×5) = """"419.9"0"4""÷""""7.2"0"0"" = """58.3"2""/10 = """5.8"3""
 Нормализованный: """2.9"2"" (Strong Architecture!)
 
-Architecture Readiness Index = (Requirements Coverage × Proof of Concept Validation × Technical Documentation × Team Expertise × Infrastructure Readiness × Risk Mitigation) ÷ 6
+Architecture Readiness Index = "Requirements Coverage × Proof of Concept Validation × Technical Documentation × Team Expertise × Infrastructure Readiness × Risk Mitigation" ÷ 6
  
 #### � ЛОГИКА РАСЧЕТА:
 Evaluation готовности архитектуры для начала full-scale development.
@@ -184,7 +184,7 @@ Fintech платформа architecture readiness:
 - Infrastructure: 9/10 (dev/staging environments ready, production infrastructure planned)
 - Risk Mitigation: 8/10 (risk register created, mitigation strategies defined)
 
-Readiness Index = (9+8+8+7+9+8)÷6 = """8.1"7"" (Good Readiness!)
+Readiness Index = "9+8+8+7+9+8"÷6 = """8.1"7"" (Good Readiness!)
 
 #### � DEVELOPMENT GUIDANCE:
 - 🟢 Poor Architecture (меньше ""1.5""): Complete architecture redesign, technical debt reduction program
@@ -248,7 +248,7 @@ Agile development team planning effectiveness:
 - Process Friction: 3/10 (smooth development workflow - хорошо)
 - Scope Creep: 4/10 (controlled scope changes - приемлемо)
 
-Effectiveness = (8×8×7×7×9×8)÷(4×3×2×5×3×4) = """"197.5"6"8""÷""""1.4"4"0"" = ""137.2""/10 = """13.7"2""
+Effectiveness = ("8"×"8"×"7"×"7"×"9"×8)÷("4"×"3"×"2"×"5"×"3"×4) = """"197.5"6"8""÷""""1.4"4"0"" = ""137.2""/10 = """13.7"2""
 Нормализованный: """3.4"3"" (Excellent Planning!)
 
 Team Velocity Sustainability = (Current Velocity × Quality Output × Team Satisfaction × Knowledge Distribution × Technical Health) ÷ (Burnout Risk × Technical Debt Growth × Dependency Bottlenecks × Onboarding Time × Process Overhead)
@@ -294,7 +294,7 @@ Product development team sustainability analysis:
 - Onboarding: 6/10 ("""3-4""" weeks для new developers - приемлемо)
 - Process Overhead: 4/10 (efficient processes - приемлемо)
 
-Sustainability = (8×8×9×7×8)÷(3×4×5×6×4) = """"32.2"5"6""÷""""1.4"4"0"" = ""22.4""/10 = """2.2"4"" (Sustainable!)
+Sustainability = ("8"×"8"×"9"×"7"×8)÷("3"×"4"×"5"×"6"×4) = """"32.2"5"6""÷""""1.4"4"0"" = ""22.4""/10 = """2.2"4"" (Sustainable!)
 
 #### � DEVELOPMENT GUIDANCE:
 - 🟢 Poor Planning (меньше ""2.0""): Process redesign, estimation training, planning tool optimization
@@ -358,10 +358,10 @@ Modern web application technology stack evaluation:
 - Licensing: 2/10 (mostly open source - отлично)
 - Migration: 4/10 (future migrations manageable - приемлемо)
 
-Optimality = (9×9×8×9×8×8)÷(4×2×3×5×2×4) = """"373.2"4"8""÷960 = ""388.8""/10 = """38.8"8""
+Optimality = ("9"×"9"×"8"×"9"×"8"×8)÷("4"×"2"×"3"×"5"×"2"×4) = """"373.2"4"8""÷960 = ""388.8""/10 = """38.8"8""
 Нормализованный: """2.5"9"" (Optimal Technology Stack!)
 
-Technology Debt Index = (Legacy Components × Version Incompatibilities × Security Vulnerabilities × Performance Bottlenecks × Documentation Gaps × Support Discontinuation) ÷ (Migration Capability × Update Frequency × Security Patching × Performance Optimization × Knowledge Retention × Vendor Alternatives)
+Technology Debt Index = "Legacy Components × Version Incompatibilities × Security Vulnerabilities × Performance Bottlenecks × Documentation Gaps × Support Discontinuation" ÷ (Migration Capability × Update Frequency × Security Patching × Performance Optimization × Knowledge Retention × Vendor Alternatives)
  
 #### � ЛОГИКА РАСЧЕТА:
 Assessment accumulated technology debt и ability address it.
@@ -410,7 +410,7 @@ Enterprise application technology debt assessment:
 - Knowledge Retention: 7/10 (good team knowledge base)
 - Vendor Alternatives: 6/10 (alternatives available for most components)
 
-Debt Index = (6×4×5×4×5×3)÷(7×6×8×6×7×6) = """"7.2"0"0""÷""""12.0"9"6"" = """0.6"0"" (Moderate Debt)
+Debt Index = ""6"×"4"×"5"×"4"×"5"×3"÷("7"×"6"×"8"×"6"×"7"×6) = """"7.2"0"0""÷""""12.0"9"6"" = """0.6"0"" (Moderate Debt)
 
 #### � DEVELOPMENT GUIDANCE:
 - 🟢 Poor Technology Stack (меньше ""1.0""): Technology audit, modernization roadmap, risk mitigation plan

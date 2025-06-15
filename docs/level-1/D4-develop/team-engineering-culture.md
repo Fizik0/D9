@@ -12,7 +12,7 @@ sidebar_position: 2
 Патрик Ленсиони: "Not talent makes teams great, but the way they work together. Great teams trust each other, engage in conflict around ideas, commit to decisions, and hold one another accountable."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-Team Performance Excellence = (Technical Expertise × Collaborative Effectiveness × Delivery Velocity × Innovation Capability × Knowledge Sharing × Continuous Learning) ÷ (Communication Overhead × Conflict Dysfunction × Skill Gaps × Productivity Friction × Context Switching × Burnout Risk)
+Team Performance Excellence = "Technical Expertise × Collaborative Effectiveness × Delivery Velocity × Innovation Capability × Knowledge Sharing × Continuous Learning" ÷ (Communication Overhead × Conflict Dysfunction × Skill Gaps × Productivity Friction × Context Switching × Burnout Risk)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive measurement team performance across multiple dimensions.
@@ -61,7 +61,7 @@ Product engineering team performance assessment:
 - Context Switching: 4/10 (focused work, minimal interruptions - приемлемо)
 - Burnout Risk: 2/10 (sustainable pace, good work-life balance - отлично)
 
-Excellence = (8×9×8×7×9×8)÷(3×2×4×3×4×2) = """"217.7"2"8""÷576 = 378/10 = ""37.8""
+Excellence = ""8"×"9"×"8"×"7"×"9"×8"÷("3"×"2"×"4"×"3"×"4"×2) = """"217.7"2"8""÷576 = 378/10 = ""37.8""
 Нормализованный: """3.1"5"" (High-Performance Team!)
 
 Team Dynamics Health Score = (Psychological Safety × Trust Level × Communication Quality × Conflict Resolution × Shared Purpose × Mutual Accountability) ÷ 6
@@ -163,10 +163,10 @@ Tech startup engineering culture assessment:
 - Silos: 2/10 (minimal departmental barriers - отлично)
 - Change Resistance: 3/10 (openness new practices - хорошо)
 
-Culture Strength = (8×9×8×8×9×8)÷(3×2×2×3×2×3) = """"331.7"7"6""÷216 = """"1.5"3"6""/10 = ""153.6""
+Culture Strength = ("8"×"9"×"8"×"8"×"9"×8)÷("3"×"2"×"2"×"3"×"2"×3) = """"331.7"7"6""÷216 = """"1.5"3"6""/10 = ""153.6""
 Нормализованный: """3.0"7"" (Exceptional Engineering Culture!)
 
-Innovation Capability Index = (Experimentation Rate × Idea Generation × Implementation Speed × Learning Velocity × Risk-Taking Willingness × Cross-Pollination) ÷ 6
+Innovation Capability Index = "Experimentation Rate × Idea Generation × Implementation Speed × Learning Velocity × Risk-Taking Willingness × Cross-Pollination" ÷ 6
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Measurement team's capability generate, evaluate, и implement innovative solutions.
@@ -201,7 +201,7 @@ Product development team innovation assessment:
 - Risk-Taking: 7/10 (calculated risks, tolerance для experimental failures)
 - Cross-Pollination: 8/10 (cross-team collaboration, knowledge sharing sessions)
 
-Innovation Index = (8+7+8+8+7+8)÷6 = """7.6"7"" (High Innovation!)
+Innovation Index = "8+7+8+8+7+8"÷6 = """7.6"7"" (High Innovation!)
 
 ### 🎯 DEVELOPMENT GUIDANCE:
 - 🟢 Poor Culture (меньше ""1.5""): Cultural transformation program, leadership development, practice overhaul
@@ -216,7 +216,7 @@ Innovation Index = (8+7+8+8+7+8)÷6 = """7.6"7"" (High Innovation!)
 Роберт Мартин: "Clean code is not written by following a set of rules. Clean code is written by craftsmen who care about their craft and take pride in their work."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-Code Quality Excellence = (Code Standards Adherence × Review Effectiveness × Test Coverage Quality × Documentation Completeness × Maintainability Score × Performance Optimization) ÷ (Defect Density × Technical Debt Accumulation × Knowledge Silos × Review Bottlenecks × Maintenance Overhead × Performance Issues)
+Code Quality Excellence = "Code Standards Adherence × Review Effectiveness × Test Coverage Quality × Documentation Completeness × Maintainability Score × Performance Optimization" ÷ (Defect Density × Technical Debt Accumulation × Knowledge Silos × Review Bottlenecks × Maintenance Overhead × Performance Issues)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive assessment code quality practices и их effectiveness.
@@ -265,7 +265,7 @@ Enterprise application code quality assessment:
 - Maintenance Overhead: 4/10 (reasonable maintenance burden - приемлемо)
 - Performance Issues: 3/10 (infrequent performance problems - хорошо)
 
-Excellence = (8×8×9×7×8×7)÷(3×4×3×3×4×3) = """"225.7"9"2""÷648 = ""348.4""/10 = """34.8"4""
+Excellence = ""8"×"8"×"9"×"7"×"8"×7"÷("3"×"4"×"3"×"3"×"4"×3) = """"225.7"9"2""÷648 = ""348.4""/10 = """34.8"4""
 Нормализованный: """2.3"2"" (Excellent Code Quality!)
 
 Knowledge Management Effectiveness = (Documentation Quality × Knowledge Sharing Frequency × Learning Path Clarity × Expertise Distribution × Onboarding Efficiency × Retention Rate) ÷ 6

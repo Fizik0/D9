@@ -12,7 +12,7 @@ sidebar_position: 3
 Джеф Сазерленд: "Scrum is not about going faster. It's about getting feedback faster so you can change direction faster when you're going in the wrong direction."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-Agile Delivery Excellence = (Velocity Consistency × Feedback Loop Speed × Adaptability × Value Delivery Rate × Team Autonomy × Customer Satisfaction) ÷ (Process Overhead × Ceremony Waste × Communication Friction × Decision Latency × Scope Creep × Quality Debt)
+Agile Delivery Excellence = "Velocity Consistency × Feedback Loop Speed × Adaptability × Value Delivery Rate × Team Autonomy × Customer Satisfaction" ÷ (Process Overhead × Ceremony Waste × Communication Friction × Decision Latency × Scope Creep × Quality Debt)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive measurement agile practice effectiveness в delivering consistent value.
@@ -61,7 +61,7 @@ Product development team agile excellence:
 - Scope Creep: 3/10 (controlled scope changes - хорошо)
 - Quality Debt: 4/10 (managed technical debt - приемлемо)
 
-Excellence = (9×8×9×8×8×8)÷(3×2×3×4×3×4) = """"331.7"7"6""÷864 = 384/10 = ""38.4""
+Excellence = ""9"×"8"×"9"×"8"×"8"×8"÷("3"×"2"×"3"×"4"×"3"×4) = """"331.7"7"6""÷864 = 384/10 = ""38.4""
 Нормализованный: """2.5"6"" (High Agile Excellence!)
 
 Sprint Health Optimization = (Goal Achievement Rate × Quality Gate Success × Team Engagement × Stakeholder Feedback × Retrospective Effectiveness × Continuous Improvement) ÷ 6
@@ -114,7 +114,7 @@ Sprint Health = (8+9+8+8+7+8)÷6 = ""8.0"" (High Sprint Health!)
 Майкл Физерс: "Legacy code is code without tests. Tests are the safety net that allows us to make changes confidently and refactor without fear."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-CI/CD Pipeline Excellence = (Build Speed × Test Reliability × Deployment Frequency × Failure Recovery × Automation Level × Feedback Quality) ÷ (Pipeline Complexity × Maintenance Overhead × False Positive Rate × Deployment Risk × Manual Intervention × Infrastructure Cost)
+CI/CD Pipeline Excellence = "Build Speed × Test Reliability × Deployment Frequency × Failure Recovery × Automation Level × Feedback Quality" ÷ (Pipeline Complexity × Maintenance Overhead × False Positive Rate × Deployment Risk × Manual Intervention × Infrastructure Cost)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive assessment CI/CD pipeline effectiveness и efficiency.
@@ -163,7 +163,7 @@ SaaS application CI/CD pipeline assessment:
 - Manual Intervention: 2/10 (minimal manual steps - отлично)
 - Infrastructure Cost: 4/10 (reasonable cloud costs - приемлемо)
 
-Excellence = (8×8×9×7×9×8)÷(5×4×3×3×2×4) = """"193.5"3"6""÷""""1.4"4"0"" = ""134.4""/10 = """13.4"4""
+Excellence = ""8"×"8"×"9"×"7"×"9"×8"÷("5"×"4"×"3"×"3"×"2"×4) = """"193.5"3"6""÷""""1.4"4"0"" = ""134.4""/10 = """13.4"4""
 Нормализованный: """2.2"4"" (Excellent CI/CD!)
 
 Test Strategy Effectiveness = (Coverage Quality × Test Pyramid Health × Execution Speed × Maintenance Ease × Defect Detection × Confidence Level) ÷ 6
@@ -265,10 +265,10 @@ High-traffic web platform performance assessment:
 - Resource Waste: 3/10 (minimal waste - хорошо)
 - Technical Limitations: 4/10 (few architectural constraints - приемлемо)
 
-Excellence = (9×8×8×9×8×9)÷(4×5×3×4×3×4) = """"373.2"4"8""÷""""2.8"8"0"" = ""129.6""/10 = """12.9"6""
+Excellence = ""9"×"8"×"8"×"9"×"8"×9"÷("4"×"5"×"3"×"4"×"3"×4) = """"373.2"4"8""÷""""2.8"8"0"" = ""129.6""/10 = """12.9"6""
 Нормализованный: """2.1"6"" (Excellent Performance!)
 
-Scalability Readiness Index = (Architecture Scalability × Load Testing Coverage × Monitoring Capability × Capacity Planning × Auto-Scaling × Performance Baseline) ÷ 6
+Scalability Readiness Index = "Architecture Scalability × Load Testing Coverage × Monitoring Capability × Capacity Planning × Auto-Scaling × Performance Baseline" ÷ 6
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Assessment readiness handle significant load increases и traffic growth.
@@ -318,7 +318,7 @@ Scalability Readiness = (8+8+9+7+8+8)÷6 = ""8.0"" (Excellent Scalability Readin
 Джеффри Мур (Crossing the Chasm): "Technology adoption - это не просто о new tools, а о strategic timing и cultural readiness. Successful innovation integration требует balancing cutting-edge exploration с production stability и creating systematic approach к emerging technology evaluation."
 
 ### 🧮 ФОРМУЛЫ + ЛОГИКА:
-Innovation Integration Excellence = (Technology Scouting × Adoption Strategy × Integration Capability × Risk Management × Value Realization × Culture Readiness) ÷ (Technology Complexity × Implementation Risk × Resource Requirements × Learning Curve × Compatibility Issues × Change Resistance)
+Innovation Integration Excellence = "Technology Scouting × Adoption Strategy × Integration Capability × Risk Management × Value Realization × Culture Readiness" ÷ (Technology Complexity × Implementation Risk × Resource Requirements × Learning Curve × Compatibility Issues × Change Resistance)
  
 ### 🧠 ЛОГИКА РАСЧЕТА:
 Comprehensive assessment innovation integration и technology adoption effectiveness.
@@ -367,7 +367,7 @@ Fintech company innovation integration assessment:
 - Compatibility Issues: 3/10 (modern architecture reduces compatibility issues - хорошо)
 - Change Resistance: 3/10 (innovation-embracing culture, minimal resistance - хорошо)
 
-Excellence = (9×8×8×8×8×9)÷(4×4×4×4×3×3) = """"331.7"7"6""÷""""2.3"0"4"" = 144/10 = ""14.4""
+Excellence = ""9"×"8"×"8"×"8"×"8"×9"÷("4"×"4"×"4"×"4"×"3"×3) = """"331.7"7"6""÷""""2.3"0"4"" = 144/10 = ""14.4""
 Нормализованный: ""3.0"" (Innovation Excellence!)
 
 Technology Adoption Maturity = (Adoption Process × Technology Assessment × Integration Planning × Risk Mitigation × Value Measurement × Organizational Learning) ÷ 6

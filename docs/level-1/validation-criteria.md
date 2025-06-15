@@ -152,7 +152,7 @@ Organizational PM Capability (D9) → Customer Understanding Depth (D1)
 - Makes decisions that optimize across all 9 dimensions
 - Teaches and coaches others in 9D methodology
 
-### 1️⃣ D1 DISCOVER → D2 DEFINE
+### "1"️⃣ D1 DISCOVER → D2 DEFINE
 
 #### CUSTOMER INTELLIGENCE MASTERY
 □ Clarity of Customer Problems: Top-3 customer problems articulated in 30 seconds
